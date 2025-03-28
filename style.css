@@ -1,5 +1,7 @@
 body {
-    background-color: rgb(223, 231, 225);
+    text-align: center;
+    background: rgb(193,219,20);
+    background: linear-gradient(90deg, rgba(193,219,20,0.7077424719887955) 0%, rgba(151,205,112,1) 40%, rgba(161,255,0,0.7693671218487395) 100%);
 }
 h1 {
     font-size: 100px;
